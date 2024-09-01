@@ -22,6 +22,16 @@ const claudio = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em> 😼
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/Claudio-Pasinelli/github-readme-streak-stats" title="Go to Source">
+      <img width=400 src="http://github-readme-streak-stats.herokuapp.com?user=Claudio-Pasinelli&theme=react&date_format=j%20M%5B%20Y%5D&border=61dafb&hide_border=true" />
+    </a>
+    <a href="https://github.com/alebuffoli/github-readme-stats" title="Go to Source">
+      <img width=400 src="https://github-readme-stats.vercel.app/api?username=Claudio-Pasinelli&count_private=true&show_icons=true&border=61dafb&hide_border=true&theme=react" />
+    </a>
+  </div>
+</p>
 
 ---
