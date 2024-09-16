@@ -25,8 +25,8 @@
 const claudio = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, CSS, HTML, Java],
-  tools: [React, Redux, Tailwind, ESLint, Node, Styled-Components, Docker],
-  videoGames: [Diablo-IV, StarCraft-II, Project-Zomboid, Worms-WMD, Smite, Total-War-WARHAMMER-III, Minecraft]
+  tools: [React, Redux, Tailwind, ESLint, Node, Styled-Components],
+  videoGames: [Diablo_IV, StarCraft_II, Project_Zomboid, Worms_WMD, Smite, Total_War_WARHAMMER_III, Minecraft]
 }
 ```
 <br>
