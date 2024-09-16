@@ -29,17 +29,9 @@ const claudio = {
   videoGames: [Diablo-IV, StarCraft-II, Project-Zomboid, Worms-WMD, Smite, Total-War-WARHAMMER-III, Minecraft]
 }
 ```
-
 <br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/Claudio-Pasinelli/github-readme-streak-stats" title="Go to Source">
-      <img width=400 src="http://github-readme-streak-stats.herokuapp.com?user=Claudio-Pasinelli&theme=react&date_format=j%20M%5B%20Y%5D&border=61dafb&hide_border=true" />
-    </a>
-    <a href="https://github.com/alebuffoli/github-readme-stats" title="Go to Source">
-      <img width=400 src="https://github-readme-stats.vercel.app/api?username=Claudio-Pasinelli&count_private=true&show_icons=true&border=61dafb&hide_border=true&theme=react" />
-    </a>
-  </div>
-</p>
+<h3>🛡️ My GitHub Stats</h3>
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=Claudio-Pasinelli&show_icons=true&theme=react)
 
 ---
