@@ -4,11 +4,11 @@
 
 <p>
   <em>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpobGN0cThxajljN2JhaDFnbnVoNGNpMnU4Mjdmdmw0eGwwa3NhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KazYtoXQkYy6BlkOwG/giphy.gif" width="90">
     I became a Web Developer thanks to 
     <a href="https://jac-its.it/orientamento/?gad_source=1&gclid=Cj0KCQjw_sq2BhCUARIsAIVqmQsUog_TWuD2zdFgfU5nUpoRr-VOb49RMRtKNCJg0DRstpGVX-NuZ9UaAgg-EALw_wcB" target="_blank">
       JobsAcademy
     </a>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpobGN0cThxajljN2JhaDFnbnVoNGNpMnU4Mjdmdmw0eGwwa3NhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KazYtoXQkYy6BlkOwG/giphy.gif" width="30">
   </em>
 </p>
 
